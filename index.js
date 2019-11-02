@@ -6,7 +6,7 @@ function getSumm(a, b) {
     c = a + b;
   } else {
     alert(
-      "something is wrong, please try again once to enter something into the proposed area"
+      "something is wrong, please try again"
     );
   }
   return c;
